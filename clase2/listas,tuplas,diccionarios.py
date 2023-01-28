@@ -15,9 +15,13 @@
 #.reverse()//revierte el orden de una lista
 
 #.remove(var)//elimina un elemento de la lista
+#.pop()
 
 #.index(var)//brinda la posicion de una variable dentro de la lista
 
+
+lisa = [1,2,3,4,5,7]
+lisa.find(5)
 #mutabilidad = alterar listas
 
 #navegacion entre indices: {n:}//donde n seria el inicio
